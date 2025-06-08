@@ -1,0 +1,16 @@
+body{
+   background: linear-gradient(to right, #6a3093 0%, #a044ff 33%, #ee84e9 66%, #d46ae9 100%);
+    color: antiquewhite;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+
+}
